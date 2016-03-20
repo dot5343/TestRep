@@ -1,1 +1,1 @@
-"# TestRep" 
+Hab mir grad die Sachen angeschaut. Aber ich glaub des Handout überarbeite ich nochmal. Die Sache mit der Grundkonfiguration, also "grid config --global user.name ..." sollte da auf jedenfall auch mit rein.
